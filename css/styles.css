@@ -1,0 +1,8 @@
+body{font-family:Arial;margin:0;background:#f6f7f9;}
+header,footer{background:#1f2937;color:#fff;text-align:center;padding:14px;}
+nav a{color:#cbd5e1;margin:0 8px;text-decoration:none;}
+nav a:hover{color:white;}
+main{background:white;padding:20px;border-radius:10px;width:min(1100px,92%);margin:20px auto;}
+.logo{max-width:240px;display:block;margin:0 auto 20px;}
+.thread{border:1px solid #ccc;padding:10px;border-radius:6px;margin-top:10px;}
+.reply{margin-left:20px;border-left:2px solid gray;padding-left:10px;margin-top:6px;}
